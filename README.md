@@ -1,6 +1,6 @@
 # Obscura
 
-Obscura is a flexible application for automatically detecting and blurring faces in images and videos. Implemented as a web application for single-file processing and as a command-line tool for batch processing of entire directories.
+Implemented as a web application for single-file processing and as a command-line tool for batch processing of entire directories.
 
 ## Features
 
